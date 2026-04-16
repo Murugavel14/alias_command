@@ -1,9 +1,0 @@
-bat ==> alias bat='batcat'
-
-shtn ==> alias shtn='shutdown now'
-oh my zshZ
-
-dirhistory
-
-batcat
- 
