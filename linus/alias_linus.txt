@@ -1,9 +1,16 @@
-bat ==> alias bat='batcat'
+bat   ==> alias bat='batcat'
 
-shtn ==> alias shtn='shutdown now'
-oh my zshZ
+shtn  ==> alias shtn='shutdown now'
 
-dirhistory
+zshrc ==> alias zshrc='~/.zshrc'
 
-batcat
- 
+upzrc ==> alias upzrc='source ~/.zshrc'
+
+bat   ==> alias bat='batacat'
+
+
+Plugin
+------
+- dirhistory
+
+
