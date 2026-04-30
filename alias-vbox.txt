@@ -10,3 +10,5 @@ cl   ==> alias cl = clear
 gcln ==> alias gcln='git clone $1' 	#for git clone <repo_url>
 
 iv   ==> alias iv='iverilog' #iverilog shortform
+
+rtlf ==> alias rtlf='cd ~/Templates/professer_sergio/Practice/rtl/'
