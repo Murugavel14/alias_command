@@ -1,0 +1,10 @@
+NVIM PLUGINS FOR BETTER USER EXPRIENCE
+==== ======= === ====== ==== =========
+
+  bufferline.nvim
+  gitsigns.nvim
+  git_conflig.nvim
+  toggleterm.nvim
+  focus.nvim
+
+
